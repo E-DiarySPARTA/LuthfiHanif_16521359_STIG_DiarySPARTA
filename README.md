@@ -1,0 +1,2 @@
+# LuthfiHanif_16521359_STIG_DiarySPARTA
+Tugas Mentoring GitHub SPARTA
